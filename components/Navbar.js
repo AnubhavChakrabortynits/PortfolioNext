@@ -17,7 +17,7 @@ const handleNav=()=>{
 
 
   return (
-    <div className='fixed w-full h-20 shadow-xl z-[100]'>
+    <div className='fixed bg-zinc-50 w-full h-20 shadow-xl z-[100] '>
         <div className='w-full h-full flex justify-between items-center px-2 2xl:px-16 '>
 <img src='https://tse4.mm.bing.net/th?id=OIP.EvmUmoFabPGr9GTlzFb8KQAAAA&pid=Api&P=0' style={{width:"110px",height:"100%"}}/>
 

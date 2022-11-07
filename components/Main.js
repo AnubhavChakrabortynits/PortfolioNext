@@ -14,7 +14,7 @@ export default function Main() {
                   Eat Sleep coffee code repeat
             </p>
             <h1 className='py-4 text-gray-600 text-3xl'>Hiya,I Am <span className='text-purple-700 font-bold'>Anubhav</span></h1>
-            <h1 className='text-gray-700 uppercase tracking-widest font-bold lg:text-4xl md:text-3xl sm:text-2xl'>--I Am A Full Stack Web Developer--</h1>
+            <h1 className='text-gray-700 uppercase tracking-widest font-bold lg:text-4xl md:text-3xl sm:text-2xl'>&lt;<span className='lowercase'>h1</span>&gt; I Am A Full Stack Web Developer &lt;<span className='lowercase'>/h1&gt;</span></h1>
             <p className='mx-auto my-2 py-2 max-w-[70%]'>Hello Guys This Anubhav ,A Full Stack Web Developer Familiar With Technologies such as ReactJs,Next,Django,ExpressJs,MongoDB ans so on.Apart From That I Am an Enthusiast Of Data Science and Devops.</p>
         
             <div className='flex items-center  justify-between max-w-[333px] mx-auto p-4'>
